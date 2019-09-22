@@ -1,4 +1,4 @@
-package com.cloud.netflix.eureka.config;
+package com.cloud.repository.config;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

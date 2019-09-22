@@ -1,4 +1,4 @@
-package com.cloud.netflix.eureka.config.configuration;
+package com.cloud.repository.config.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
